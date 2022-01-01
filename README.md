@@ -1,2 +1,1 @@
-![Outer Wilds 2021-12-31 8_47_11 PM](https://user-images.githubusercontent.com/75101437/147844204-5cc4d717-6b4d-4223-a412-3166ce3c5edd.png)
-![Outer Wilds 2021-12-31 8_49_30 PM](https://user-images.githubusercontent.com/75101437/147844219-f7fc4005-f893-457f-a58d-874e22c0a3c7.png)
+![Outer Wilds 2021-12-31 8_47_11 PM](https://user-images.githubusercontent.com/75101437/147844204-5cc4d717-6b4d-4223-a412-3166ce3c5edd.png)![Outer Wilds 2022-01-01 7_38_41 AM](https://user-images.githubusercontent.com/75101437/147854277-cf5b73af-c2c5-4415-8ad6-e4a3a67c94e7.png)

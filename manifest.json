@@ -1,9 +1,11 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
-  "version": "0.1.0",
+  "author": "Jammer",
+  "name": "Outer Wilds Galaxy",
+  "uniqueName": "Jammer.OuterWildsGalaxy",
+  "version": "1.8.0",
   "owmlVersion": "2.1.0",
-  "dependencies": [ "xen.NewHorizons" ]
+  "dependencies": [
+    "xen.NewHorizons"
+  ]
 }

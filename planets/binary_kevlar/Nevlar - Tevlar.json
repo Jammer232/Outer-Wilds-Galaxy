@@ -1,0 +1,24 @@
+{
+	"name" : "Nevlar - Tevlar",
+	"Base" :
+	{
+        	"hasMapMarker" : true,
+        	"gravityFallOff" : "inverseSquared",
+	},
+ 	"Orbit" :
+    	{
+	"semiMajorAxis" : 420000,
+	"inclination" : 0,
+	"primaryBody" : "Core",
+	"isMoon" : false,
+	"isTidallyLocked" : true,
+	"longitudeOfAscendingNode" : 218,
+	"eccentricity" : 0,
+	"argumentOfPeriapsis": 192,
+	},
+	"FocalPoint" :
+	{
+		"Primary" : "Nevlar",
+		"Secondary" : "Tevlar",
+	}
+}

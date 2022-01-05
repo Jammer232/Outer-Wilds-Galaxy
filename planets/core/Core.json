@@ -1,0 +1,38 @@
+{
+	"name" : "Core",
+	"Base" :
+	{
+		"surfaceGravity" : 9200,
+		"surfaceSize" : 2100,
+		"hasMapMarker" : true,
+		"gravityFallOff" : "inverseSquared",
+		"blackHoleSize" : 2500,
+		"centerOfSolarSystem" : true
+	},
+	"Ring" : 
+	{
+		"innerRadius" : 2500,
+		"outerRadius" : 50000,
+		"inclination" : 90,
+		"texture" : "planets/assets/accretion_disk.png",
+	},	
+	"Star" :
+    	{
+        "size" : 250,
+        "tint" : 
+        {
+		"r" : 0,
+		"g" : 0,
+		"b" : 0,
+		"a" : 255,
+        	},
+		"solarFlareTint" : 
+		{
+			"r" : 0,
+			"g" : 0,
+			"b" : 0,
+			"a" : 255
+		},
+		"solarLuminosity" : 1
+	}
+}

@@ -9,12 +9,12 @@
     }, 
     "Orbit" :
     {
-	"semiMajorAxis" : 590000,
+	"semiMajorAxis" : 300000,
 	"inclination" : 0,
 	"primaryBody" : "Core",
 	"isMoon" : false,
 	"isTidallyLocked" : true,
-	"longitudeOfAscendingNode" : 218,
+	"longitudeOfAscendingNode" : 167,
 	"eccentricity" : 0,
 	"argumentOfPeriapsis": 192,
     },

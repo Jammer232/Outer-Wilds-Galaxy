@@ -20,7 +20,7 @@
     },
     "Atmosphere" :
     {
-        "size" : 1300,
+        "size" : 1600,
         "fogTint" : 
         {
 		"r" : 255,
@@ -29,7 +29,7 @@
 		"a" : 255,
         },
         "fogDensity": 0.1,
-        "fogSize": 1300,
+        "fogSize": 1600,
     },
     "Star" :
     {

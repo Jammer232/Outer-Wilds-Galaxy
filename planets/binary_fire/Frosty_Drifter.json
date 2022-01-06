@@ -17,7 +17,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 290000,
+		"semiMajorAxis" : 390000,
 		"inclination" : 0,
 		"primaryBody" : "Core",
 		"isTidallyLocked" : true,

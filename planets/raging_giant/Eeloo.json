@@ -1,6 +1,6 @@
 {
 	"name" : "Eeloo",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 6,

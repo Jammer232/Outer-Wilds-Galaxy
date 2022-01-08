@@ -1,6 +1,6 @@
 {
 	"name" : "Glowing Pebble",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 4,

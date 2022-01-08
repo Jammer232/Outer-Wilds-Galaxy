@@ -1,5 +1,5 @@
 {
 	"name" : "Orbital Probe Cannon",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"destroy" : true
 }

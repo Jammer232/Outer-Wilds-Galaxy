@@ -1,6 +1,6 @@
 {
 	"name" : "Bop",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 1,

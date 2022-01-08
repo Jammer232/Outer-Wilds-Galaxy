@@ -1,6 +1,6 @@
 {
 	"name" : "Jool",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 20,

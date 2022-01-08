@@ -1,5 +1,6 @@
 {
 	"name" : "Eve",
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 15,

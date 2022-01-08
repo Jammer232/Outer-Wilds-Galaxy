@@ -1,6 +1,6 @@
 {
 	"name" : "Nameless Forest",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 13,

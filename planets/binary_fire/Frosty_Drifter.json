@@ -1,6 +1,6 @@
 {
 	"name" : "Frosty Drifter",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 10,

@@ -1,6 +1,6 @@
 {
     "name" : "Second Home",
-    starSystem" : "Jammer.OuterWildsGalaxy"
+    "starSystem" : "Jammer.OuterWildsGalaxy",
     "Base" :
     {
         "surfaceGravity" : 80,

@@ -1,6 +1,6 @@
 {
 	"name" : "Pearl Giant",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 12,

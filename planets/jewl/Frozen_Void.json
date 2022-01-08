@@ -1,6 +1,6 @@
 {
 	"name" : "Frozen Void",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
 		"surfaceGravity" : 4.5,

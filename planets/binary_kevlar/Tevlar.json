@@ -1,6 +1,6 @@
 {
     "name" : "Tevlar",
-    starSystem" : "Jammer.OuterWildsGalaxy"
+    "starSystem" : "Jammer.OuterWildsGalaxy",
     "Base" :
     {
         "surfaceGravity" : 70,

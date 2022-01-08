@@ -1,5 +1,5 @@
 {
 	"name" : "Map Satellite",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"destroy" : true
 }

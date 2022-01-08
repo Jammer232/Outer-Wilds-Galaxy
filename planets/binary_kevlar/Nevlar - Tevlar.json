@@ -1,6 +1,6 @@
 {
 	"name" : "Nevlar - Tevlar",
-	starSystem" : "Jammer.OuterWildsGalaxy"
+	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
         	"hasMapMarker" : true,

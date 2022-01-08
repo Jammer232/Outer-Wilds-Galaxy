@@ -1,5 +1,6 @@
 {
 	"name" : "Icy Rock",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 4,

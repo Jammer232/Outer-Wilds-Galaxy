@@ -1,5 +1,6 @@
 {
 	"name" : "Scorched Fire - Homeworld",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
         	"hasMapMarker" : true,

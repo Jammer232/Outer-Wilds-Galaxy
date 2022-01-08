@@ -1,5 +1,6 @@
 {
 	"name" : "Boiling Tundra",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 16,

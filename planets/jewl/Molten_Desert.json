@@ -1,5 +1,6 @@
 {
 	"name" : "Molten Desert",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 8,

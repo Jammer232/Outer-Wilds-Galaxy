@@ -1,5 +1,6 @@
 {
 	"name" : "Sol",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 100,

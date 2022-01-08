@@ -1,5 +1,6 @@
 {
 	"name" : "Dusty Haven",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 10,

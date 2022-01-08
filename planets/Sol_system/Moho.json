@@ -1,5 +1,6 @@
 {
 	"name" : "Moho",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 4,

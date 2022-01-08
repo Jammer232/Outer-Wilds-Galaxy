@@ -1,5 +1,6 @@
 {
     "name" : "Scorched Fire",
+    starSystem" : "Jammer.OuterWildsGalaxy"
     "Base" :
     {
         "surfaceGravity" : 35,

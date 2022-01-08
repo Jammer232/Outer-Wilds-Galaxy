@@ -1,5 +1,6 @@
 {
 	"name" : "Cracked Wasteland",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 5,

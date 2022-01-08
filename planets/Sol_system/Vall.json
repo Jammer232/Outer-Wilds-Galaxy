@@ -1,5 +1,6 @@
 {
 	"name" : "Vall",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 8,

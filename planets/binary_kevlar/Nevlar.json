@@ -1,5 +1,6 @@
 {
     "name" : "Nevlar",
+    starSystem" : "Jammer.OuterWildsGalaxy"
     "Base" :
     {
         "surfaceGravity" : 70,

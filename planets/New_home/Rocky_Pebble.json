@@ -1,5 +1,6 @@
 {
 	"name" : "Rocky Pebble",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 4,

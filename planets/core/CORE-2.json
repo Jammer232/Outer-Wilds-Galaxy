@@ -1,5 +1,6 @@
 {
     "name" : "CORE-2",
+    starSystem" : "Jammer.OuterWildsGalaxy"
     "Base" :
     {
         "surfaceGravity" : 150,

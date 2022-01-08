@@ -1,5 +1,6 @@
 {
 	"name" : "Duna",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 7,

@@ -1,5 +1,6 @@
 {
 	"name" : "Foggy Ice",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 15,

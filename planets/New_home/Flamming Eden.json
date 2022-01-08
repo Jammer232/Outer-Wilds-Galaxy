@@ -1,5 +1,6 @@
 {
 	"name" : "Flamming Eden",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 8,

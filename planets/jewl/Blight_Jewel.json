@@ -1,5 +1,6 @@
 {
     "name" : "Bright Jewel",
+    starSystem" : "Jammer.OuterWildsGalaxy"
     "Base" :
     {
         "surfaceGravity" : 160,

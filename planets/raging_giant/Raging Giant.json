@@ -1,5 +1,6 @@
 {
     "name" : "Raging Giant",
+    starSystem" : "Jammer.OuterWildsGalaxy"
     "Base" :
     {
         "surfaceGravity" : 145,

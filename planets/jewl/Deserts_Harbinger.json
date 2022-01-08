@@ -1,5 +1,6 @@
 {
 	"name" : "Deserts Harbinger",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 4,

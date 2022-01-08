@@ -1,5 +1,6 @@
 {
 	"name" : "Homeworld",
+	starSystem" : "Jammer.OuterWildsGalaxy"
 	"Base" :
 	{
 		"surfaceGravity" : 14,

@@ -7,7 +7,7 @@
 		"surfaceSize" : 2100,
 		"hasMapMarker" : true,
 		"gravityFallOff" : "inverseSquared",
-		"blackHoleSize" : 2500,
+		"blackHoleSize" : 3200,
 		"centerOfSolarSystem" : true
 	},
 	"Ring" : 
@@ -19,7 +19,7 @@
 	},	
 	"Star" :
     	{
-        "size" : 250,
+        "size" : 2500,
         "tint" : 
         {
 		"r" : 0,

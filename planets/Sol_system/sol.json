@@ -29,7 +29,7 @@
 			"b" : 255,
 			"a" : 255
 		},
-		"fogDensity": 0.4,
+		"fogDensity": 100,
 		"fogSize": 2200,
 	},
 	"Star" :

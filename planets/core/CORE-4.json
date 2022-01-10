@@ -3,7 +3,7 @@
     "starSystem" : "Jammer.OuterWildsGalaxy",
     "Base" :
     {
-        "surfaceGravity" : 1230,
+        "surfaceGravity" : 9230,
         "surfaceSize" : 20,
         "hasMapMarker" : true,
 	"gravityFallOff" : "inverseSquared",
@@ -24,6 +24,7 @@
 	"innerRadius" : 20,
 	"outerRadius" : 900,
 	"inclination" : 7,
+	"rotationSpeed" : -154,
 	"texture" : "planets/assets/accretion_disk.png",
     },	
     "Star" :

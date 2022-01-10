@@ -15,6 +15,7 @@
 		"innerRadius" : 2500,
 		"outerRadius" : 50000,
 		"inclination" : 90,
+		"rotationSpeed" : -24,
 		"texture" : "planets/assets/accretion_disk.png",
 	},	
 	"Star" :

@@ -5,7 +5,7 @@
 	{
 		"surfaceGravity" : 12,
 		"surfaceSize" : 250,
-		"waterSize" : 235,
+		"waterSize" : 215,
 		"hasMapMarker" : true,
 		"hasAmbientLight" : true,
 		"gravityFallOff" : "inverseSquared",

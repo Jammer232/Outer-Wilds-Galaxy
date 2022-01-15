@@ -18,13 +18,13 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 390000,
+		"semiMajorAxis" : 200000,
 		"inclination" : 0,
 		"primaryBody" : "Core",
 		"isTidallyLocked" : true,
-		"longitudeOfAscendingNode" : 0,
+		"longitudeOfAscendingNode" : 150,
 		"eccentricity" : 0,
-		"argumentOfPeriapsis": 0,
+		"argumentOfPeriapsis": 213,
 	},
 	"HeightMap" :
 	{

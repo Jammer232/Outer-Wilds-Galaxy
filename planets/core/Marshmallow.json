@@ -3,7 +3,7 @@
 	"starSystem" : "Jammer.OuterWildsGalaxy",
 	"Base" :
 	{
-		"surfaceGravity" : 20,
+		"surfaceGravity" : 60,
 		"surfaceSize" : 200,
 		"hasMapMarker" : true,
 		"gravityFallOff" : "inverseSquared",

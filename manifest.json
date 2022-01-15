@@ -3,7 +3,7 @@
   "author": "Jammer",
   "name": "Outer Wilds Galaxy",
   "uniqueName": "Jammer.OuterWildsGalaxy",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "owmlVersion": "2.1.0",
   "dependencies": [
     "xen.NewHorizons"

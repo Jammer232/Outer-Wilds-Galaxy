@@ -5,7 +5,6 @@
 	{
 		"surfaceGravity" : 6,
 		"surfaceSize" : 130,
-		"waterSize" : 130,
 		"hasMapMarker" : true,
 		"gravityFallOff" : "inverseSquared",
 		"lightTint" : 
@@ -33,7 +32,8 @@
 	{
 		"hasOxygen" : true,
 		"hasAtmosphere" : true,
-		"size" : 170,
+		"hasSnow" : true,
+		"size" : 180,
 		"fogTint" : 
 		{
 			"r" : 255,
@@ -42,7 +42,22 @@
 			"a" : 255
 		},
 		"fogDensity": 1,
-		"fogSize": 170,
+		"fogSize": 180,
+	},
+	"Water" : {
+		"size" : 130,
+		"tint":
+		{
+			"r" : 255,
+			"g" : 255,
+			"b" : 255,
+			"a" : 255
+		},
+		"curve" : [
+			{"time" : 0, "value" : 0.97},
+			{"time" : 5, "value" : 1},
+			{"time" : 11, "value" : 1.03}
+		]
 	},
 	"HeightMap" :
 	{

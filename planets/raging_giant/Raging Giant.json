@@ -49,6 +49,10 @@
 		"b" : 0,
 		"a" : 255,
 		},
-		"solarLuminosity" : 3
+		"curve" : [
+			{"time" : 0, "value" : 1},
+
+		]
+		,"solarLuminosity" : 3
 	}
 }

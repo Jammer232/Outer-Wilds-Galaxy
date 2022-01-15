@@ -50,6 +50,7 @@
 		},
 		"fogDensity": 1,
 		"fogSize": 350,
+		"hasSnow" : true
 	},
 	"HeightMap" :
 	{
